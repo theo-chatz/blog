@@ -1,0 +1,24 @@
+header {
+    padding: 156px 0 100px;
+  }
+  
+  section {
+    padding: 150px 0;
+  }
+
+  .dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+    border: 0;
+    padding: 0px 5px 5px 2px;
+    color: #9d9d9d;
+    background-color: #9d9d9d;
+  }
+  .dropdown-item {
+    color: #9d9d9d;
+}
+
+  .dropdown-item:hover {
+    color: rgba(255,255,255,.75);
+    background-color: inherit;
+}
