@@ -1,9 +1,21 @@
 header {
-    padding: 156px 0 100px;
+    padding: 130px 0 80px;
+    margin-top:56px;
+    }
+
+    .masthead {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 800px;
+      background-image: url(../img/header2.jpg);
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
   }
   
   section {
-    padding: 150px 0;
+    padding: 80px 0;
   }
 
   .dropdown:hover .dropdown-menu {
@@ -22,3 +34,45 @@ header {
     color: rgba(255,255,255,.75);
     background-color: inherit;
 }
+
+iframe {
+  position:absolute;
+  width:125%;
+  height:125%;
+  left:0px;
+  border:0px;
+
+  -ms-transform: scale(0.8);
+  -moz-transform: scale(0.8);
+  -o-transform: scale(0.8);
+  -webkit-transform: scale(0.8);
+  transform: scale(0.8);
+
+  -ms-transform-origin: 0 0;
+  -moz-transform-origin: 0 0;
+  -o-transform-origin: 0 0;
+  -webkit-transform-origin: 0 0;
+  transform-origin: 0 0;
+}
+
+/*
+iframe
+{
+    width: 1280px;
+    height: 786px;
+    border: 0;
+
+    -ms-transform: scale(0.25);
+    -moz-transform: scale(0.25);
+    -o-transform: scale(0.25);
+    -webkit-transform: scale(0.25);
+    transform: scale(0.25);
+
+    -ms-transform-origin: 0 0;
+    -moz-transform-origin: 0 0;
+    -o-transform-origin: 0 0;
+    -webkit-transform-origin: 0 0;
+    transform-origin: 0 0;
+}
+*/
+
