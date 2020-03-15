@@ -13,20 +13,14 @@ document.write('                    </li>\n');
 document.write('                    <li class=\"nav-item\">\n');
 document.write('                        <a class=\"nav-link\" href=\"index.html#about\">About</a>\n');
 document.write('                    </li>\n');
+
 document.write('                    <li class=\"nav-item dropdown\">\n');
-document.write('                        <a class=\"nav-link dropdown-toggle\" data-toggle=\"dropdown\" id=\"dropdown_tr\" href=\"#\">Transportation</a>\n');
+document.write('                        <a class=\"nav-link dropdown-toggle\" data-toggle=\"dropdown\" id=\"dropdown_tr\" href=\"#\">Projects</a>\n');
 document.write('                        <div class=\"dropdown-menu bg-dark\" aria-labelledby=\"dropdown_tr\">\n');
 document.write('                            <a class=\"dropdown-item\" href=\"collision_dashboard.html\">Collisions Dashboard</a>\n');
-//document.write('                            <a class=\"dropdown-item\" href=\"#\">TUBE</a>\n');
 document.write('                        </div>\n');
 document.write('                    </li>\n');
-document.write('                    <li class=\"nav-item dropdown\">\n');
-document.write('                            <a class=\"nav-link dropdown-toggle\" data-toggle=\"dropdown\" id=\"dropdown_tr\" href=\"#\">Economics</a>\n');
-document.write('                            <div class=\"dropdown-menu bg-dark\" aria-labelledby=\"dropdown_tr\">\n');
-document.write('                                <a class=\"dropdown-item\" href=\"#\">Macro Data</a>\n');
-document.write('                                <a class=\"dropdown-item\" href=\"#\">Inequality</a>\n');
-document.write('                            </div>\n');
-document.write('                        </li>\n');
+
 document.write('                    <li class=\"nav-item\">\n');
 document.write('                        <a class=\"nav-link\" href=\"index.html#contact\">Contact</a>\n');
 document.write('                    </li>\n');
