@@ -19,7 +19,7 @@ document.write('                        <a class=\"nav-link dropdown-toggle\" da
 
 document.write('                        <div class=\"dropdown-menu bg-dark\" aria-labelledby=\"dropdown_tr\">\n');
 document.write('                            <a class=\"dropdown-item\" href=\"collision_dashboard.html\">Collisions Dashboard</a>\n');
-document.write('                            <a class=\"dropdown-item\" href=\"collision_dashboard.html\">Maps</a>\n');
+document.write('                            <a class=\"dropdown-item\" href=\"inf_map_gr.html\">Map</a>\n');
 
 
 
